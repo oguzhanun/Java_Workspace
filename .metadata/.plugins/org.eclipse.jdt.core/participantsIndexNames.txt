@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/home/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3372396738.index
+/030-spring-security-demo-09-jdbc-bcrypt/src/main/java

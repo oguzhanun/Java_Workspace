@@ -1,0 +1,6 @@
+127.0.0.1 - - [16/Dec/2019:19:47:12 +0300] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Dec/2019:19:47:13 +0300] "GET /spring-security-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Dec/2019:19:47:14 +0300] "GET /spring-security-demo/showMyLoginPage HTTP/1.1" 200 2305
+127.0.0.1 - - [16/Dec/2019:19:52:20 +0300] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Dec/2019:19:52:20 +0300] "GET /spring-security-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Dec/2019:19:52:21 +0300] "GET /spring-security-demo/showMyLoginPage HTTP/1.1" 200 2305

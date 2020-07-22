@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="150"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="347"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="73"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="conditionHistory">
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=hibernate-jdbc-demo/src&amp;lt;com.oguzhanun.hibernate.jdbc{TestJdbc.java[TestJdbc&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-demo-aop-pointcut-declerations/src&amp;lt;com.oguzhanun.aopdemo{MainDemoApp.java[MainDemoApp&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=02-spring-boot-dev-tools-demo/src\/main\/java&amp;lt;com.oguzhanun.springboot.demo.SpringbootProject{SpringbootProjectApplication.java[SpringbootProjectApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=05-spring-boot-properties-demo/src\/main\/java&amp;lt;com.oguzhanun.springboot.demo.SpringbootProject{SpringbootProjectApplication.java[SpringbootProjectApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=demo/src\/main\/java&amp;lt;com.example.demo{DemoApplication.java[DemoApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=033-spring-boot-demo/src\/main\/java&amp;lt;com.luv2code.springboot.demo.mycoolapp{MycoolappApplication.java[MycoolappApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Heroku-app/src\/main\/java&amp;lt;com.oguzhanun.springboot.herokuapp{HerokuAppApplication.java[HerokuAppApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=experimental/src\/main\/java&amp;lt;com.oguzhanun.springboot.experimental{ExperimentalApplication.java[ExperimentalApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=experimental2/src\/main\/java&amp;lt;com.oguzhanun.springboot.experimental2{Experimental2Application.java[Experimental2Application&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=043-thymleaf/src\/main\/java&amp;lt;com.oguzhanun.springboot.thymleaf{ThymleafApplication.java[ThymleafApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=springbootwithreact/src\/main\/java&amp;lt;com.example.springbootwithreact{SpringbootwithreactApplication.java[SpringbootwithreactApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=kurye-taxi-backend/src\/main\/java&amp;lt;com.kuryetaxi.kuryetaxibackend{KuryeTaxiBackendApplication.java[KuryeTaxiBackendApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=012-spring-demo-aop/src&amp;lt;com.oguzhanun.aopdemo{MainDemoApp.java[MainDemoApp&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=001-spring-demo-one/src&amp;lt;com.luv2code.springdemo{BeanLifeCycleDemoApp.java[BeanLifeCycleDemoApp&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Clarusway-Selenium/src\/main\/java&amp;lt;moguzhanun.selenium.starter{Main.java[Main&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_X_ORIGIN" value="480"/>
+			<item key="DIALOG_Y_ORIGIN" value="293"/>
+		</section>
+	</section>
+</section>

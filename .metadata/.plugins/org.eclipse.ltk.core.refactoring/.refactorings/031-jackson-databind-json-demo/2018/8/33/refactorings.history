@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Student.java&apos; to &apos;jackson-databind-json-demo/src/main/java/com.luv2code.jackson.json.demo&apos;&#x0A;- Original project: &apos;jackson-databind-json-demo&apos;&#x0A;- Destination element: &apos;jackson-databind-json-demo/src/main/java/com.luv2code.jackson.json.demo&apos;&#x0A;- Original element: &apos;com.oguzhanun.jackson.json.demo.Student.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.luv2code.jackson.json.demo" element1="/src\/main\/java&lt;com.oguzhanun.jackson.json.demo{Student.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1534528116893" units="1" version="1.0"/>
+</session>
